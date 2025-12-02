@@ -6,11 +6,13 @@
 
 ### 1.1 Використовуємо "export default function" у файлах:
 
-`page.jsx`
-`layout.jsx`
-`error.jsx`
-`loading.jsx`
-`proxy.js`
+```text
+page.jsx
+layout.jsx
+error.jsx
+loading.jsx
+proxy.js
+```
 
 ```javascript
 export default function Page() {}
