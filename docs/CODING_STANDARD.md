@@ -48,7 +48,7 @@ export function getOrigin() {}
 **Порядок груп:**
 
 ```text
-external libs (react / next / packages)`
+external libs (react / next / packages)
 config
 constants
 utils / lib
