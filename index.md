@@ -1,6 +1,4 @@
-# Стандарти коду Next.js
-
----
+# coding-standard-nextjs
 
 ## 1. Експорти
 
@@ -38,8 +36,6 @@ const formatPrice = () => {};
 export function generateAlternates() {}
 export function getOrigin() {}
 ```
-
----
 
 ## 2. Порядок імпортів, групи імпортів (зверху вниз)
 
@@ -84,8 +80,6 @@ import { LogoIcon } from "@/components/icons/logo-icon";
 
 import styles from "./nav-menu-header.module.css";
 ```
-
----
 
 ## 3. Неймінг
 
